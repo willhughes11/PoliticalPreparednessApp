@@ -103,7 +103,7 @@
             android:id="@+id/save_election_button"
             style="@style/TextAppearance.MaterialComponents.Button"
             android:layout_width="match_parent"
-            android:layout_height="36dp"
+            android:layout_height="@dimen/medium_button_height"
             android:layout_margin="16dp"
             android:background="@color/colorPrimary"
             android:textColor="@color/white"
